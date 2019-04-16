@@ -1,0 +1,6 @@
+Git
+Check version: Git version or Git --version
+
+git config --list
+cd \D:\GitHub
+git init
